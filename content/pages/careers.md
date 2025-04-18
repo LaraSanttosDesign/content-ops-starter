@@ -4,7 +4,7 @@ slug: careers
 sections:
   - title:
       text: Lara Santtos Designer
-      color: text-primary
+      color: text-neutral
       styles:
         self:
           textAlign: center
